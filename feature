@@ -1,4 +1,6 @@
 my big feature
 
-changed in main
-my massive main
+<<<<<<< HEAD
+=======
+fdafafe
+>>>>>>> feat
